@@ -1,4 +1,4 @@
-										Anonymization of text
+							Anonymization of text
 										
 A Tcl/Tkinter python app where the user is able to get anonymized text via GDPR standards by simply entering the non-anonymized text. For its better functionality, relevant informational messages are provided.
 
